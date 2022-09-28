@@ -1,0 +1,68 @@
+#exercise4{
+    background-color: chocolate;
+}
+
+.fourteen{
+    font-size: 14pt;
+}
+
+.arial{
+    font-family: Arial;
+}
+.bolden{
+    font-weight: bold;
+}
+
+.Khaki{
+    color: khaki;
+}
+
+.twelve{
+    font-size: 12pt;
+}
+
+.gold{
+    color: gold;
+}
+
+.trebuchet{
+    font-family: 'Trebuchet MS';
+}
+
+.verse-margin{
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.chorus-margin{
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+
+.italic{
+    font-style:italic;
+}
+
+#exercise6{
+    background-color: pink;
+    border: 4px solid black;
+}
+
+.list-6{
+    list-style: none;
+}
+.element-6{
+    text-align: center;
+}
+
+#mocassin{
+    color: moccasin;
+}
+
+#ivory{
+    color: ivory;
+}
+
+#normal{
+    font-style: normal;
+}
